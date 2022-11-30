@@ -1,0 +1,1 @@
+python3 tools/splat/create_config.py baserom.*.z64
