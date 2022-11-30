@@ -41,3 +41,6 @@ The absolute minimum to start decompiling an N64 game.
     - Run `make extract`
     - Run `make -j6` (or however many threads you desire)
 - If all is well, you should see `build/(GAME).(REGION).z64: OK` in the terminal!
+
+### Video Reference
+https://user-images.githubusercontent.com/49764143/204761354-8a6ae697-70c3-4142-99a1-1ad0dd4a7274.mp4
