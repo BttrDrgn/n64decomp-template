@@ -15,7 +15,7 @@ The absolute minimum to start decompiling an N64 game.
     - mips-linux-gnu (Ubuntu)
 
 ### Steps
-### ALL SHELL SCRIPTS ARE RAN FROM ROOT
+### ALL SHELL SCRIPTS ARE RAN FROM PROJECT ROOT
 #### Prereq #2
 - Install the required python packages for splat by running `./tools/init-splat.sh`
 - Place your obtained rom in the root of the repo named `baserom.(REGION).z64`
