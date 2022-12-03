@@ -16,7 +16,6 @@ The absolute minimum to start decompiling an N64 game.
     - TODO: more options
 
 ### Steps
-### ALL SHELL SCRIPTS ARE RAN FROM ROOT
 #### Prereq #2
 - Install the required python packages for splat by running `pip install -r tools/splat/requirements.txt`
     - This installs all depdencies used by splat
