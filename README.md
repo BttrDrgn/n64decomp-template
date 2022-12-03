@@ -2,6 +2,10 @@
 
 The absolute minimum to start decompiling an N64 game.
 
+# WARNING
+This repository is completely unfinished, but it may provide some useful information to those starting.
+It is not recommended to use this template at this time unless you know exactly what is missing to get going.
+
 # Usage
 ### Prerequisites
 - Your legally obtained desired game's rom in Z64 format
