@@ -1,1 +1,0 @@
-pip install -r tools/splat/requirements.txt
